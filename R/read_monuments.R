@@ -1,4 +1,4 @@
-#' Read Youth Tobacco Survey (YTS)
+#' Read Baltimore Monuments data
 #'
 #' @param ... Additional arguments to pass to
 #' \code{\link{read_csv}}
@@ -6,11 +6,10 @@
 #' @return A \code{tibble}
 #' @export
 #'
-#' @importFrom readr read_csv problems stop_for_problems
 #' @examples
-#' yts = read_yts()
-read_yts = function(...) {
-  fname = jhu_file("Youth_Tobacco_Survey_YTS_Data.csv")
+#' mon = read_monuments()
+read_monuments = function(...) {
+  fname = jhu_file("Monuments.csv")
   df = readr::read_csv(fname, ...)
   readr::stop_for_problems(df)
   return(df)
