@@ -15,4 +15,15 @@ read_bike = function(...) {
   return(df)
 }
 
+#' @rdname read_bike
+#' @export
+read_bike_wide = function(...) {
+  fname = jhu_file("Bike_Lanes_Wide.csv")
+  df = readr::read_csv(fname, ...)
+  readr::stop_for_problems(df)
+  return(df)
+}
+
+
+
 

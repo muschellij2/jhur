@@ -2,10 +2,12 @@
 
 export(jhu_file)
 export(read_bike)
+export(read_bike_wide)
 export(read_circulator)
 export(read_kaggle)
 export(read_monuments)
 export(read_mortality)
+export(read_salaries)
 export(read_tb)
 export(read_yts)
 importFrom(readr,col_double)

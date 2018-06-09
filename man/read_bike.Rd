@@ -2,9 +2,12 @@
 % Please edit documentation in R/read_bike.R
 \name{read_bike}
 \alias{read_bike}
+\alias{read_bike_wide}
 \title{Read Bike Lanes data}
 \usage{
 read_bike(...)
+
+read_bike_wide(...)
 }
 \arguments{
 \item{...}{Additional arguments to pass to
