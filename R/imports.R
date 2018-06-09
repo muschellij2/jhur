@@ -1,0 +1,24 @@
+#' @import broom
+#' @import car
+#' @import chron
+#' @import dplyr
+#' @import dslabs
+#' @import ggplot2
+#' @import grid
+#' @import kableExtra
+#' @import knitr
+#' @import lubridate
+#' @import matrixStats
+#' @import memisc
+#' @import pander
+#' @import plyr
+#' @import psych
+#' @import RColorBrewer
+# #' @import readr
+#' @import readxl
+#' @import reshape
+#' @import rmarkdown
+#' @import stargazer
+#' @import stringr
+#' @import tidyr
+#' @import tidyverse
