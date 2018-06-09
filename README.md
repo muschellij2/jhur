@@ -1,6 +1,6 @@
 
 [![Travis build
-status](https://travis-ci.org/muschellij2/jhur.svg?branch=master)](https://travis-ci.org/muschellij2/jhur)
+status](https://travis-ci.com/muschellij2/jhur.svg?branch=master)](https://travis-ci.com/muschellij2/jhur)
 [![AppVeyor Build
 Status](https://ci.appveyor.com/api/projects/status/github/muschellij2/jhur?branch=master&svg=true)](https://ci.appveyor.com/project/muschellij2/jhur)
 [![Coverage
