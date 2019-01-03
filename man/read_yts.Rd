@@ -4,11 +4,13 @@
 \alias{read_yts}
 \title{Read Youth Tobacco Survey (YTS)}
 \usage{
-read_yts(...)
+read_yts(..., verbose = FALSE)
 }
 \arguments{
 \item{...}{Additional arguments to pass to
 \code{\link{read_csv}}}
+
+\item{verbose}{Should messages be printed?}
 }
 \value{
 A \code{tibble}
