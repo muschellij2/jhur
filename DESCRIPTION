@@ -1,5 +1,5 @@
 Package: jhur
-Version: 0.1.0
+Version: 0.2.0
 Title: Introduction to R
 Description: Accompanying functions for the Introduction to R class at Johns Hopkins.
 Authors@R: c(person(given = "John",
