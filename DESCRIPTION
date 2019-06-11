@@ -46,4 +46,4 @@ Suggests:
 VignetteBuilder: knitr
 URL: https://github.com/muschellij2/jhur
 BugReports: https://github.com/muschellij2/jhur/issues
-RoxygenNote: 6.1.0
+RoxygenNote: 6.1.1
