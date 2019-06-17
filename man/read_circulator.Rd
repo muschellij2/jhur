@@ -2,9 +2,12 @@
 % Please edit documentation in R/read_circulator.R
 \name{read_circulator}
 \alias{read_circulator}
+\alias{read_circulator_long}
 \title{Read Charm City Circulator data}
 \usage{
 read_circulator(...)
+
+read_circulator_long(...)
 }
 \arguments{
 \item{...}{Additional arguments to pass to

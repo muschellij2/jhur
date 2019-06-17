@@ -17,9 +17,12 @@ read_circulator = function(...) {
 
 
 #' @export
+#' @rdname read_circulator
 #' @importFrom lubridate mdy
 #' @import tidyr dplyr stringr
 read_circulator_long = function(...) {
+  var = NULL
+  rm(list = "var");
   circ = read_circulator(...)
   circ = mutate(circ, date = mdy(date))
   # change colnames for reshaping

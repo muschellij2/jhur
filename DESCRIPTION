@@ -11,6 +11,7 @@ Authors@R: c(person(given = "John",
   family = "Jaffe",
   role = "aut")
   )
+Depends: R (>= 2.10)
 License: GPL-3
 Encoding: UTF-8
 LazyData: true
