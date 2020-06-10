@@ -4,7 +4,9 @@
 \name{jhu_cars}
 \alias{jhu_cars}
 \title{Motor Trend Cars}
-\format{A \code{tibble} of the data}
+\format{
+A \code{tibble} of the data
+}
 \usage{
 jhu_cars
 }

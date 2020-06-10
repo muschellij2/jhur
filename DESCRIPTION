@@ -1,5 +1,5 @@
 Package: jhur
-Version: 0.2.0
+Version: 0.2.1
 Title: Introduction to R
 Description: Accompanying functions for the Introduction to R class at Johns Hopkins.
 Authors@R: c(person(given = "John",
@@ -19,6 +19,7 @@ Type: Package
 Imports:
   broom,
   car,
+  corrr,
   chron,
   dplyr,
   dslabs,
@@ -47,4 +48,4 @@ Suggests:
 VignetteBuilder: knitr
 URL: https://github.com/muschellij2/jhur
 BugReports: https://github.com/muschellij2/jhur/issues
-RoxygenNote: 6.1.1
+RoxygenNote: 7.1.0
