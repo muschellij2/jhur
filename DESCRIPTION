@@ -17,7 +17,7 @@ Authors@R: c(person(given = "John",
   comment = c(ORCID = "0000-0003-1325-6067")),
   person(given = "Ava",
   family = "Hoffman",
-  role = "ctb"),
+  role = "ctb")
   )
 Depends: R (>= 4.0)
 License: GPL-3
