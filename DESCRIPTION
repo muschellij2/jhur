@@ -12,10 +12,10 @@ Authors@R: c(person(given = "John",
   role = "aut"),
   person(given = "Carrie",
   family = "Wright",
-  role = "aut"),
+  role = "ctb", "cre"),
   person(given = "Ava",
   family = "Hoffman",
-  role = "aut"),
+  role = "ctb"),
   
   )
 Depends: R (>= 4.0)
