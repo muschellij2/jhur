@@ -1,4 +1,5 @@
 # jhur 1.0.0
+
 * got rid of reshape
 * added OCSdata
 * added mortality data, covid vaccine data, and gdp data
