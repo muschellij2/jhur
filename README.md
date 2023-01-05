@@ -1,11 +1,12 @@
 
-[![Travis build
-status](https://travis-ci.com/muschellij2/jhur.svg?branch=master)](https://travis-ci.com/muschellij2/jhur)
-[![AppVeyor Build
-Status](https://ci.appveyor.com/api/projects/status/github/muschellij2/jhur?branch=master&svg=true)](https://ci.appveyor.com/project/muschellij2/jhur)
-[![Coverage
-status](https://coveralls.io/repos/github/muschellij2/jhur/badge.svg?branch=master)](https://coveralls.io/r/muschellij2/jhur?branch=master)
-<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+<!-- badges: start -->
+[![R_cmd_check](https://github.com/jhudsl/jhur/actions/workflows/check-standard.yaml/badge.svg)](jhudsl/jhur/actions)
+[![Lifecycle: stable](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)](https://lifecycle.r-lib.org/articles/stages.html#stable)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/judsl/jhur?style=social)](https://github.com/judsl/jhur/releases/tag/v1.1.0)
+<!-- badges: end -->
+
+
 
 # jhur Package:
 
@@ -18,5 +19,5 @@ You can install `jhur` from GitHub with:
 
 ``` r
 # install.packages("remotes")
-remotes::install_github("muschellij2/jhur")
+remotes::install_github("jhudsl/jhur")
 ```
